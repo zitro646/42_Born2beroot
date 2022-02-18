@@ -6,7 +6,6 @@ https://github.com/Sefy-j/42Madrid/tree/master/Born2beroot
 https://github.com/hanshazairi/42-born2beroot
 https://www.youtube.com/watch?v=2w-2MX5QrQw
 
-
 _____________________________________________________________
 *Para visualizar las particiones del sistema ejecutamos el comando:
 $lsblk
