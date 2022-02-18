@@ -1,6 +1,6 @@
 Estos archivos han tomado referencias de las siguientes cuentas citadas abajo.
-*Referencias
 
+*Referencias
 _____________________________________________________________
 https://github.com/Sefy-j/42Madrid/tree/master/Born2beroot
 https://github.com/hanshazairi/42-born2beroot
