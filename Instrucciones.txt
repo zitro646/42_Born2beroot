@@ -1,4 +1,14 @@
-sys*Para visualizar las particiones del sistema ejecutamos el comando:
+Estos archivos han tomado referencias de las siguientes cuentas citadas abajo.
+*Referencias
+
+_____________________________________________________________
+https://github.com/Sefy-j/42Madrid/tree/master/Born2beroot
+https://github.com/hanshazairi/42-born2beroot
+https://www.youtube.com/watch?v=2w-2MX5QrQw
+
+
+_____________________________________________________________
+*Para visualizar las particiones del sistema ejecutamos el comando:
 $lsblk
 *La diferencia entre aptitude y apt 
 Apt(Advanced Package Tool) es una herramienta que utilizamos para descargar programas pero aptitude en este sentido tiene una mayor cantidad de herramientas para optimizar/realizar las operaciones.
@@ -210,7 +220,7 @@ PARTE 2 BONUS
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Clonar en la siguiente dirección
-/sgoinfre/students/mortiz-d/born2beroot
+/sgoinfre/students/user-name/born2beroot
 
 
 

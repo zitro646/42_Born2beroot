@@ -1,8 +1,5 @@
 El nombre del hostname sera ("nombre del usuario" + "42")
 
-
-
-
 Lo primero que mostramos son las particiones.
 Con el comando $lsblk
 
@@ -75,7 +72,6 @@ El comando sudo crontab -l muestra como configurar el cron
 
 Para acceder al script del Crontab que usamos
 $sudo nano /bin/monitoring.sh
-
 
 
 BONUS
